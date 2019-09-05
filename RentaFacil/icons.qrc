@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/iconos">
+        <file>placeholder.png</file>
+        <file>add-user.png</file>
+        <file>login.png</file>
+        <file>left-arrow.png</file>
+    </qresource>
+    <qresource prefix="/prueba"/>
+</RCC>
