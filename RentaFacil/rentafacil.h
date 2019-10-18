@@ -2,6 +2,7 @@
 #define RENTAFACIL_H
 
 #include <QMainWindow>
+#include <QAbstractAnimation>
 
 namespace Ui {
 class RentaFacil;
