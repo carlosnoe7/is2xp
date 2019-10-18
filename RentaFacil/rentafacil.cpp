@@ -55,4 +55,6 @@ void RentaFacil::on_pushButton_3_clicked()
 void RentaFacil::on_pushButton_4_clicked()
 {
 
+    int n;
+
 }
