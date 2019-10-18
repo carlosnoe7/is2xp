@@ -25,6 +25,8 @@ private slots:
 
     void on_btnback_clicked();
 
+    void on_pushButton_clicked();
+
 private:
     Ui::RentaFacil *ui;
 };
