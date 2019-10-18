@@ -34,3 +34,8 @@ void RentaFacil::on_btnback_clicked()
 {
     ui->stackedWidget->setCurrentIndex(0);
 }
+
+void RentaFacil::on_pushButton_clicked()
+{
+
+}
