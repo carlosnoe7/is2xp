@@ -3,7 +3,7 @@
 
 #include <QMainWindow>
 #include <QAbstractAnimation>
-
+#include <iostream>
 namespace Ui {
 class RentaFacil;
 }
