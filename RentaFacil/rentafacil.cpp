@@ -44,3 +44,8 @@ void RentaFacil::on_pushButton_clicked()
 
     // kkkkkkkkkkk
 }
+
+void RentaFacil::on_pushButton_3_clicked()
+{
+    //esta esta  creada por daniel
+}
