@@ -411,6 +411,13 @@ color: #435B6C;</string>
        <item>
         <layout class="QHBoxLayout" name="horizontalLayout_10">
          <item>
+          <widget class="QPushButton" name="pushButton">
+           <property name="text">
+            <string>PushButton</string>
+           </property>
+          </widget>
+         </item>
+         <item>
           <spacer name="horizontalSpacer_16">
            <property name="orientation">
             <enum>Qt::Horizontal</enum>
@@ -1235,7 +1242,7 @@ font-size:14px;
        <string>Cancelar</string>
       </property>
      </widget>
-     <widget class="QWidget" name="">
+     <widget class="QWidget" name="layoutWidget">
       <property name="geometry">
        <rect>
         <x>0</x>
