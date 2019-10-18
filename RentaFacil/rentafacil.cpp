@@ -56,5 +56,6 @@ void RentaFacil::on_pushButton_4_clicked()
 {
 
     int n;
+    n=2;
 
 }
