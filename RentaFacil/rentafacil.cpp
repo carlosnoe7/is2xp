@@ -3,6 +3,7 @@
 #include "registro.h"
 
 #include <QtDebug>
+#include <QString>
 
 RentaFacil::RentaFacil(QWidget *parent) :
     QMainWindow(parent),
