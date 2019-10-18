@@ -2,6 +2,8 @@
 #include "ui_rentafacil.h"
 #include "registro.h"
 
+#include <QtDebug>
+
 RentaFacil::RentaFacil(QWidget *parent) :
     QMainWindow(parent),
     ui(new Ui::RentaFacil)
