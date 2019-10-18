@@ -4,6 +4,7 @@
 
 #include <QtDebug>
 #include <QString>
+#include<QList>
 
 RentaFacil::RentaFacil(QWidget *parent) :
     QMainWindow(parent),
