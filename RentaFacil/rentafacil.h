@@ -24,6 +24,7 @@ private slots:
     void on_btnRefIniSes_clicked();
 
     void on_btnback_clicked();
+    void on_pushButton_clicked();
 
     void on_pushButton_clicked();
 
