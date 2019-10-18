@@ -51,3 +51,8 @@ void RentaFacil::on_pushButton_3_clicked()
 {
     //esta esta creada por noe
 }
+
+void RentaFacil::on_pushButton_4_clicked()
+{
+
+}
