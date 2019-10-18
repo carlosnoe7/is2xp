@@ -38,4 +38,7 @@ void RentaFacil::on_btnback_clicked()
 void RentaFacil::on_pushButton_clicked()
 {
 //hola
+
+
+    // kkkkkkkkkkk
 }
